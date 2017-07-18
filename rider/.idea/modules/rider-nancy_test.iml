@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="rider-nancy:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.jetbrains" external.system.module.type="sourceSet" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../build/kotlin-classes/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../build/classes/main:/Users/matt/RiderProjects/rider-nancy/rider/build/resources/main:/Users/matt/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3-2/3fe54c7558c903868351ac79b792d152bca958f2/kotlin-stdlib-jre7-1.1.3-2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/alloy.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/annotations-12.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/annotations-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/annotations.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/ant-contrib-1.0b3.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/asm-all.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/automaton.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/batik-all.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/bcprov-jdk15on-155.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/boot.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/bootstrap.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/cglib-nodep-3.2.4.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/cli-parser-1.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/cloud-config-client.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/common-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/common-image-3.2.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/common-io-3.2.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/common-lang-3.2.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/commons-codec-1.9.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/commons-compress-1.10.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/commons-httpclient-3.1-patched.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/commons-logging-1.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/commons-net-3.3.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/ddmlib-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/dvlib-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/extensions.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/fluent-hc-4.5.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/forms_rt.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/groovy-all-2.4.6.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/gson-2.5.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/guava-19.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/hamcrest-core-1.3.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/httpclient-4.5.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/httpcore-4.4.5.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/httpmime-4.5.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/icons.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/imageio-core-3.2.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/imageio-metadata-3.2.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/imageio-tiff-3.2.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/imgscalr-lib-4.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/isorelax.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jaxen-1.1.3.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jayatana-1.2.4.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jdom.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jediterm-pty-2.5.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jettison-1.3.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jgoodies-forms.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jh.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jimfs-1.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jing.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jna-platform.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jna.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch-0.1.54.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch.agentproxy.connector-factory.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch.agentproxy.core.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch.agentproxy.pageant.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch.agentproxy.sshagent.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch.agentproxy.usocket-jna.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsch.agentproxy.usocket-nc.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jsr173_1.0_api.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jtar-2.3.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/junit-4.12.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/jzlib-1.1.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/kotlin-test.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/kxml2-2.3.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/layoutlib-api-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/log4j.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/markdown4j-2.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/markdownj-core-0.4.2-SNAPSHOT.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/microba.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/miglayout-core-5.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/miglayout-swing-5.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/nanoxml-2.2.3.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/netty-all-4.1.9.Final.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/openapi.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/oromatcher.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/picocontainer.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/protobuf-2.5.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/proxy-vole_20131209.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/pty4j-0.7.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/purejavacomm.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/repository-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/resolver.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/resources.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/resources_en.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/rhino-js-1_7R4.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/rider.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/rngom-20051226-patched.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/sanselan-0.98-snapshot.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/sdklib-25.2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/serviceMessages.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/slf4j-api-1.7.10.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/slf4j-log4j12-1.7.10.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/snakeyaml-1.17.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/snappy-in-java-0.5.1.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/sqlite-jdbc-3.8.11.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/streamex-0.6.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/swingx-core-1.6.2.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/trang-core.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/trove4j.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/util.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/velocity.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/winp-1.23.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xbean.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xercesImpl.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xml-apis-ext.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xml-apis.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xmlgraphics-commons-1.5.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xmlrpc-2.0.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xpp3-1.1.4-min.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xstream-1.4.8.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/xz-1.5.jar:/Users/matt/RiderProjects/rider-nancy/rider/build/riderRD-171.4456.1432/lib/yjp-controller-api-redist.jar:/Users/matt/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3-2/9b44c139a4ec57031e0c84ba0e49ba16df6d801c/kotlin-stdlib-1.1.3-2.jar:/Users/matt/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="rider-nancy_main" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.1" />
+          <option name="apiVersion" value="1.1" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="rider-nancy_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.3-2" level="project" />
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: com.jetbrains:riderRD:171.4456.1432">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/alloy.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/annotations-12.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/annotations-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/annotations.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/ant-contrib-1.0b3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/asm-all.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/automaton.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/batik-all.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/bcprov-jdk15on-155.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/boot.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/bootstrap.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/cglib-nodep-3.2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/cli-parser-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/cloud-config-client.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/common-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/common-image-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/common-io-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/common-lang-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/commons-codec-1.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/commons-compress-1.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/commons-httpclient-3.1-patched.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/commons-net-3.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/ddmlib-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/dvlib-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/extensions.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/fluent-hc-4.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/forms_rt.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/groovy-all-2.4.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/gson-2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/guava-19.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/httpclient-4.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/httpcore-4.4.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/httpmime-4.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/icons.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/imageio-core-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/imageio-metadata-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/imageio-tiff-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/imgscalr-lib-4.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/isorelax.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jaxen-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jayatana-1.2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jdom.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jediterm-pty-2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jettison-1.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jgoodies-forms.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jh.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jimfs-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jing.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jna-platform.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jna.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch-0.1.54.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch.agentproxy.connector-factory.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch.agentproxy.core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch.agentproxy.pageant.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch.agentproxy.sshagent.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch.agentproxy.usocket-jna.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsch.agentproxy.usocket-nc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jsr173_1.0_api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jtar-2.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/junit-4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/jzlib-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/kotlin-test.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/kxml2-2.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/layoutlib-api-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/log4j.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/markdown4j-2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/markdownj-core-0.4.2-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/microba.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/miglayout-core-5.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/miglayout-swing-5.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/nanoxml-2.2.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/netty-all-4.1.9.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/openapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/oromatcher.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/picocontainer.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/protobuf-2.5.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/proxy-vole_20131209.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/pty4j-0.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/purejavacomm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/repository-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/resolver.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/resources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/resources_en.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/rhino-js-1_7R4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/rider.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/rngom-20051226-patched.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/sanselan-0.98-snapshot.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/sdklib-25.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/serviceMessages.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/slf4j-api-1.7.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/slf4j-log4j12-1.7.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/snakeyaml-1.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/snappy-in-java-0.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/streamex-0.6.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/swingx-core-1.6.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/trang-core.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/trove4j.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/util.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/velocity.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/winp-1.23.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xbean.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xercesImpl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xml-apis-ext.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xml-apis.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xmlgraphics-commons-1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xmlrpc-2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xpp3-1.1.4-min.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xstream-1.4.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/xz-1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../build/riderRD-171.4456.1432/lib/yjp-controller-api-redist.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.3-2" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="rider-nancy_main" />
+</module>

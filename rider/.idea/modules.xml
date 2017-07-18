@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rider-nancy.iml" filepath="$PROJECT_DIR$/.idea/modules/rider-nancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rider-nancy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rider-nancy_main.iml" group="rider-nancy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rider-nancy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rider-nancy_test.iml" group="rider-nancy" />
+    </modules>
+  </component>
+</project>

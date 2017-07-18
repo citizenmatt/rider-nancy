@@ -1,0 +1,41 @@
+<idea-plugin>
+  <id>com.citizenmatt.rider.nancy</id>
+  <name>Nancy Support</name>
+  <version>1.0.0.0</version>
+  <vendor url="https://www.jetbrains.com">JetBrains</vendor>
+
+  <idea-version since-build="171.3655" until-build="171.3655.*" />
+
+  <depends>com.intellij.modules.rider</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <directoryProjectGenerator implementation="com.citizenmatt.rider.plugins.nancy.projectGenerators.NancyApplication"/>
+  </extensions>
+
+  <description><![CDATA[
+<p>Adds support for Nancy.</p>
+<p></p>
+<p><b>Features</b></p>
+<p>
+<ul>
+  <li>Add Nancy Application project template</li>
+</ul>
+</p>
+<p></p>
+<p><b>Links</b></p>
+<p>
+<ul>
+  <li><a href="https://github.com/citizenmatt/rider-nancy">GitHub</a>
+  <li><a href="https://github.com/citizenmatt/rider-nancy/issues">Issues</a>
+</ul>
+</p>
+]]>
+  </description>
+  <change-notes>
+<![CDATA[
+<ul>
+  <li>Add Nancy Application project template</li>
+</ul>
+]]>
+  </change-notes>
+</idea-plugin>
